@@ -11,6 +11,8 @@ Skyhouse Mod - https://github.com/skyblock-tools/skyhouse-mod
 ## C#
 A Level CS Project
 
+24 hour ASCII Game Jam - https://github.com/Septikai/compsoc-ascii-gamejam/
+
 ### SpiderHeck Mods
 InfiniteAmmo - https://github.com/Septikai/InfiniteAmmo
 
