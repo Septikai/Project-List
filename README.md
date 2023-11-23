@@ -1,6 +1,5 @@
 # Project-List
-A list of projects that I've made or had a significant contribution to, sorted by main language.
-
+A list of projects that I've made or had a significant contribution to, in no particular order.
 
 ## Python
 Nullzee's Warden - https://github.com/nullzee-cave/nullzee-bot
@@ -19,6 +18,9 @@ InfiniteAmmo - https://github.com/Septikai/InfiniteAmmo
 OneShot - https://github.com/Septikai/OneShot
 
 MultiplayerTiers - https://github.com/Septikai/MultiplayerTiers
+
+## Typescript
+Obsidian Google Calendar Sync Plugin - https://github.com/Septikai/obsidian-google-calendar-sync
 
 ## Web Dev
 ### Vue
