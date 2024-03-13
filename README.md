@@ -8,7 +8,9 @@ Nullzee's Warden - https://github.com/nullzee-cave/nullzee-bot
 Skyhouse Mod - https://github.com/skyblock-tools/skyhouse-mod
 
 ## C#
-A Level CS Project
+A Level CS Project - https://github.com/Septikai/cs-project
+
+A Level CS Project Dungeon Designer - https://github.com/Septikai/cs-project-dungeon-designer
 
 24 hour ASCII Game Jam - https://github.com/Septikai/compsoc-ascii-gamejam/
 
